@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ciw:home|Door43 (ciw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ciw|d43-ciw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ciw/archive/master.zip|d43-ciw.zip]]
+
+**Recent Changes**
+{{changes>ns = ciw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ciw|Ethnologue data]]
+
